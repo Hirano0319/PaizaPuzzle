@@ -1,0 +1,12 @@
+{
+  "name": "puzzle",
+  "version": "0.0.0",
+  "description": "Puzzle",
+  "main": "app.js",
+  "author": {
+    "name": "jotsm"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
